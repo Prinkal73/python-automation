@@ -48,9 +48,7 @@ def seperate_and_move(directory_path,file_path):
                     
 
 
-# if __name__ == "__main__":
-    # directory_path = '/Users/prink/Downloads'
-#     seperate_and_move(directory_path)
+
 directory_path = '/Users/prink/Downloads'
 
 
